@@ -39,7 +39,7 @@ html, body {
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
-
+  margin-top: 10px !important; 
 }
 
 .nav li {
@@ -47,8 +47,8 @@ html, body {
 
 }
 
-.nav a{
-  margin-top: 10px !important; 
+.nav {
+  margin-top: 20px;
 }
 
 .jumbotron {
