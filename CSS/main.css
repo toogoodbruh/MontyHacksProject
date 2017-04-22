@@ -51,6 +51,10 @@ html, body {
   margin-top: 20px;
 }
 
+.pull-left .pull-right {
+  margin-top: 20px;
+}
+
 .jumbotron {
   /*background-image:url('http://d.ibtimes.co.uk/en/full/1455815/ios-jailbreak.png');
   
