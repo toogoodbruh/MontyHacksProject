@@ -19,6 +19,7 @@ margin-bottom: -100px;
 html, body {
   height: 100%;
 }
+
 .page-wrap {
   min-height: 100%;
   /* equal to footer height */
@@ -47,7 +48,7 @@ html, body {
 }
 
 .nav {
-  padding-top: 10px;  
+  padding-top: 10px !important;  
 }
 
 .jumbotron {
@@ -111,14 +112,15 @@ html, body {
 
 .footer {
     /*text-align: center;*/
-    clear: left;
+    
     float: left;
     
 }
 
 .foot {
-  height: auto;
-  float: bottom;
+  margin-top: 120px;
+  text-align: center;
+  font-size: 11pt;
 }
 
 
