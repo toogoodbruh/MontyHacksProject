@@ -83,6 +83,7 @@ html, body {
 }
 
 .neighborhood-guidelines {
+  clear: left;
   float: left;
 }
 
@@ -114,3 +115,14 @@ html, body {
     float: left;
     
 }
+
+.foot {
+  height: auto;
+  float: bottom;
+}
+
+
+
+
+
+
