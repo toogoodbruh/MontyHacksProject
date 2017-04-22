@@ -38,10 +38,16 @@ html, body {
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
+
 }
 
 .nav li {
   display: inline;
+
+}
+
+.nav {
+  padding-top: 10px;  
 }
 
 .jumbotron {
@@ -76,6 +82,10 @@ html, body {
   color: #008000;
 }
 
+.neighborhood-guidelines {
+  float: left;
+}
+
 .learn-more {
   background-color: #f7f7f7;
 }
@@ -98,6 +108,8 @@ html, body {
     text-align: center;
 }
 
-footer {
-    text-align: center;
+.footer {
+    /*text-align: center;*/
+    float: left;
+    clear: left;
 }
