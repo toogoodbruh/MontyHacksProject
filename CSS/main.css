@@ -45,8 +45,10 @@ html, body {
 }
 
 .jumbotron {
-  background-image:url('https://images.toogoodbruh.com/blitzbrigadehomescreen.jpg');
-  height: 500px;
+  /*background-image:url('http://d.ibtimes.co.uk/en/full/1455815/ios-jailbreak.png');
+  */
+  background-image:url('https://montyhacks.toogoodbruh.com/Images/ios-jailbreak.png');
+  height: 400px;
   background-repeat: no-repeat;
   background-size: cover;
 }
