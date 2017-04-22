@@ -46,9 +46,10 @@ html, body {
 
 .jumbotron {
   /*background-image:url('http://d.ibtimes.co.uk/en/full/1455815/ios-jailbreak.png');
-  */
-  background-image:url('https://montyhacks.toogoodbruh.com/Images/ios-jailbreak.png');
-  height: 400px;
+  
+  background-image:url('http://images.toogoodbruh.com/ios-jailbreak.jpg');*/
+  background-image:url('http://d.ibtimes.co.uk/en/full/1455815/ios-jailbreak.png');
+  height: 440px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -59,15 +60,20 @@ html, body {
 }
 
 .jumbotron h1 {
-  color: #fff;
-  font-size: 48px;  
+  font-size: 48px;
+  color: #f1e7e2 !important;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
 
-.jumbotron p {
-  font-size: 20px;
-  color: #fff;
+.jumbotron p{
+  font-size: 30px !important;
+  color: #00aa00;
+  font-variant: bold;
+}
+
+.jumbotron .jumboLink {
+  color: #008000;
 }
 
 .learn-more {
