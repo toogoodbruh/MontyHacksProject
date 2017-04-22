@@ -1,0 +1,9 @@
+Sitemap: https:www.toogoodbruh.com/sitemap.htm.xml
+
+User-agent: Googlebot-Image
+
+Disallow: /
+
+User-agent: Googlebot
+
+Disallow: /*.gif$
