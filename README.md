@@ -1,2 +1,2 @@
 # MontyHacksProject
-MontyHacks hackaton
+MontyHacks hackathon
